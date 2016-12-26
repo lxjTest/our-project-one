@@ -17,10 +17,10 @@ public class MainActivity extends AppCompatActivity {
         mZbtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Toast.makeText(MainActivity.this,"123456789 987654321",Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this,"不要作了吧",Toast.LENGTH_SHORT).show();
+
             }
         });
-          int i = 0;
 
 
     }
